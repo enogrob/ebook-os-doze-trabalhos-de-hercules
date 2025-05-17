@@ -10,23 +10,21 @@ O livro "Os Doze Trabalhos de Hércules", escrito por Christian Grenier, é uma 
 
 ## Conteúdo
 
-1. Uma ou Duas Artimanhas de Júpiter
-2. Uma Infância de Herói
-3. A Pele do Leão de Nemeia ou O Leão de Nemeia
-4. Um Monstruoso Face a Faces ou A Hidra de Lerna
-5. Um Javali para Euristeu ou O Javali de Erimanto
-6. Em Busca da Corça Sagrada ou A Corça do Monte Mênalo
-7. O Caçador que Tocava Címbalos ou As Aves do Lago de Estínfalo
-8. Cara a Cara com o Touro do Rei dos Mares ou O Touro do Rei de Creta
-9. A Sangrenta História do Rei que Fazia Suas Éguas Devorarem os Estrangeiros ou As Éguas de Diomedes
-10. Um Serviço Sujo ou Os Estábulos de Áugias
-11. Pelos Belos Olhos de uma Amazona ou O Cinto de Hipólita
-12. Mil Bois para uma Deusa ou Os Bois de Gerião
-13. O Apanhador de Frutas ou Os Pomos de Ouro do Jardim das Hespérides
-14. Uma Missão no Inferno ou O Cão Cérbero
-15. Glossário
-16. Posfácio
-17. Mapa - A Península Europeia na Antiguidade
-18. Bibliografia
-19. Mapa - A Grécia na Antiguidade
+01.UM HERÓI LOUCO
+02.A VOZ DA PROFECIA
+03.A SERVIÇO DE EURISTEU
+04.O LEÃO DA NΕΜΕΙΑ
+05.A HIDRA DE LERNA
+06.O JAVALI DE ERIMANTO
+07.A COLEIRA DO JAVALI
+08.A CERVA DE DIANA
+09.OS PÁSSAROS DE ESTİNFALO
+10.OS ESTÁBULOS DE ÁUGIAS
+11.O TOURO DE CRETA
+12.OS CAVALOS DE DIOMEDES
+13.O CINTO DE HIPÓLITA
+14.O REBANHO DE GERIÃO
+15.O GUARDIÃO DOS INFERNOS
+16.OS POMOS DE OURO
+
 
