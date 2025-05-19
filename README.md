@@ -10,21 +10,21 @@ O livro "Os Doze Trabalhos de Hércules", escrito por Christian Grenier, é uma 
 
 ## Conteúdo
 
-01.UM HERÓI LOUCO
-02.A VOZ DA PROFECIA
-03.A SERVIÇO DE EURISTEU
-04.O LEÃO DA NΕΜΕΙΑ
-05.A HIDRA DE LERNA
-06.O JAVALI DE ERIMANTO
-07.A COLEIRA DO JAVALI
-08.A CERVA DE DIANA
-09.OS PÁSSAROS DE ESTİNFALO
-10.OS ESTÁBULOS DE ÁUGIAS
-11.O TOURO DE CRETA
-12.OS CAVALOS DE DIOMEDES
-13.O CINTO DE HIPÓLITA
-14.O REBANHO DE GERIÃO
-15.O GUARDIÃO DOS INFERNOS
-16.OS POMOS DE OURO
+- [01.UM HERÓI LOUCO](contents/01.um-heroi-louco.md)  
+- [02.A VOZ DA PROFECIA](contents/02.a-voz-da-profecia.md)  
+- [03.A SERVIÇO DE EURISTEU](contents/03.a-servico-de-euristeu.md)  
+- [04.O LEÃO DA NΕΜΕΙΑ](contents/04.o-leao-da-nemeia.md)  
+- [05.A HIDRA DE LERNA](contents/05.a-hidra-de-lerna.md)  
+- [06.O JAVALI DE ERIMANTO](contents/06.o-javali-de-erimanto.md)  
+- [07.A COLEIRA DO JAVALI](contents/07.a-coleira-do-javali.md)  
+- [08.A CERVA DE DIANA](contents/08.a-cerva-de-diana.md)  
+- [09.OS PÁSSAROS DE ESTİNFALO](contents/09.os-passaros-de-estinfalo.md)  
+- [10.OS ESTÁBULOS DE ÁUGIAS](contents/10.os-estabulos-de-augias.md)  
+- [11.O TOURO DE CRETA](contents/11.o-touro-de-creta.md)  
+- [12.OS CAVALOS DE DIOMEDES](contents/12.os-cavalos-de-diomedes.md)  
+- [13.O CINTO DE HIPÓLITA](contents/13.o-cinto-de-hipolita.md)  
+- [14.O REBANHO DE GERIÃO](contents/14.o-rebanho-de-geriao.md)  
+- [15.O GUARDIÃO DOS INFERNOS](contents/15.o-guardiao-dos-infernos.md)  
+- [16.OS POMOS DE OURO](contents/16.os-pomos-de-ouro.md)
 
 
