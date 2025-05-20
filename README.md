@@ -4,7 +4,7 @@
 
 **Sobre**
 
-O livro "Os Doze Trabalhos de Hércules", escrito por Christian Grenier, é uma adaptação da mitologia grega para o público infantojuvenil. A obra apresenta a trajetória do herói Hércules, conhecido por sua força extraordinária e coragem, desde seu nascimento até a realização de seus famosos doze trabalhos, impostos como penitência por seus atos e como um meio de alcançar a redenção.
+Os Doze Trabalhos de Hércules é uma obra clássica da literatura grega, escrita por Luiz Galdino. O livro narra as aventuras e desafios enfrentados pelo herói mitológico Hércules, que foi condenado a realizar doze trabalhos impossíveis como forma de expiação por um crime cometido sob a influência da deusa Hera.
 
 [Homepage](https://www.amazon.com.br/Doze-Trabalhos-H%C3%A9rcules-Luiz-Galdino/dp/853224503X/ref=asc_df_853224503X?mcid=1c25b02c8a7c3b65bf1ba3a6efae6e6f&tag=googleshopp00-20&linkCode=df0&hvadid=709856848245&hvpos=&hvnetw=g&hvrand=566113891811593400&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100208&hvtargid=pla-826942748772&psc=1&language=pt_BR&gad_source=1)
 
